@@ -1,0 +1,15 @@
+{
+  "logout": "logout",
+  "finduser": "Find a user...",
+  "type": "Type something...",
+  "login": "Login",
+  "signin": "Sign in",
+  "signup": "Sign up",
+  "yesaccount": "Do you have an account?",
+  "noaccount": "You don't have an account?",
+  "register": "Register",
+  "somethingwrong": "Something went wrong",
+  "displayname": "display name",
+  "avatar": "Add an avatar",
+  "send": "Send"
+}
